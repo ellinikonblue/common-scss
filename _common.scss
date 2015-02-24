@@ -1,0 +1,34 @@
+@charset "UTF-8"
+// Common Constant Variables
+// Feb 16th, 2015 KAWANISHI Kazuhiro
+//
+// HTML 標準カラー
+$black:        #000000;
+$white:        #FFFFFF;
+$red:          #FF0000;
+$lime:         #00FF00;
+$blue:         #0000FF;
+$yellow:       #FFFF00;
+$cyan:         #00FFFF;
+$magenta:      #FF00FF;
+$gray:         #808080;
+$silver:       #C0C0C0;
+$gold:         #FFD700;
+$whitesmoke:   #F5F5F5;
+$midnightblue: #191970;
+$royalblue:    #4169E1;
+$azure:        #F0FFFF;
+$powderblue:   #B0E0E6;
+$skyblue:      #87CEEB;
+$maroon:       #800000;
+$orange:       #FFA500;
+$orangered:    #FF4500;
+
+// 基本フォントセット
+$sans_serif_Helvetica: Helvetica, 'Franklin Gothic Medium', 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+$sans_serif_Tahoma:    Tahoma, Geneva, 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+$sans_serif_Verdana:   Verdana, Arial, 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+$serif_Georgia:        georgia, 'Times New Roman', 'ヒラギノ明朝 Pro W3','Hiragino Mincho Pro','ＭＳ Ｐ明朝','MS PMincho', serif;
+$serif_Palatino:       'Palatino Linotype', Palatino, 'ヒラギノ明朝 Pro W3', 'Hiragino Mincho Pro', 'ＭＳ Ｐ明朝' ,'MS PMincho', serif;
+$monospace_Consolas:   Consolas, 'Lucida Console', Monaco, 'ＭＳ ゴシック', 'MS Gothic', monospace;
+$monospace_Courier:    Courier, Courier New, 'Osaka−等幅', 'ＭＳ ゴシック', 'MS Gothic', monospace;
