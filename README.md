@@ -7,7 +7,7 @@ Common Definition Files for SCSS
 SCSS ファイルで共通的に使用する定義ファイルです。
 
 　[blosxom-flavour][1] や [pico-theme][2] で公開している
-\.scss ファイルをコンパイルする際、適宜、コピー使用してください。
+\.scss ファイルをコンパイルする際、適宜、コピーして使用してください。
 
 
 
